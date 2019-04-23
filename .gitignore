@@ -1,0 +1,5 @@
+bin/*
+data/*
+include/*
+.vscode/*
+src/wayland-protocol/*
